@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Caravan",
+    "unitType": "Civilian",
+    "movement": 4,
+    "hurryCostModifier": 20,
+    "requiredTech": "Currency",
+    "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"],
+    "cost": 140
+  }
+]
